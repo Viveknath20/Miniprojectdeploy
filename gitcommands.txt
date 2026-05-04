@@ -1,0 +1,23 @@
+for new repo adding
+
+1 try { . "c:\Users\Viveknath\AppData\Local\Programs\Microsof...
+2 git --versions                                                
+3 git --version                                                 
+4 git config --global user.name "Vivek"                         
+5 git config --global user.email "viveknath20rcr@gmail.com"     
+6 git init                                                      
+   7 git add .                                                     
+   8 git commit "initial commit"                                   
+   9 git commit -m "initial commit"                                
+  10 git branch -M main                                            
+  11 git remote add origin https://github.com/Viveknath20/Minipr...
+  12 git push -u origin main                                       
+  13 git branch -M main                                            
+  14 git remote add origin https://github.com/Viveknath20/Minipr...
+  15 git push -u origin main...                      
+
+
+for existing
+git add .
+git commit -m "added new file"
+git push origin new file 
